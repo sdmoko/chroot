@@ -2,7 +2,7 @@
 groupadd -g 9999 chrooters
 
 ## Set Username variable
-username=example
+username=test
 
 ## Create chroot jail
 D=/home/jails
